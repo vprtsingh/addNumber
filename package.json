@@ -1,7 +1,7 @@
 {
-  "name": "vprtsingh",
-  "version": "1.8.0",
-  "description": "desc",
+  "name": "add-two-number-demo-package",
+  "version": "2.1.0",
+  "description": "Package for adding any two number", 
   "keywords": "NodeJs, Javascript",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,10 @@
   "author": "Vijay Pratap Singh <vijaypratap218@gmail.com> (vijaypratap.info)",
   "license": "ISC",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/vprtsingh/addNumber.git"
+    "type": "git",
+    "url": "https://github.com/vprtsingh/addNumber.git"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
   }
 }

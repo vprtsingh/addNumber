@@ -1,10 +1,12 @@
-Add two number
+Package for adding any two number
 
-npm i vprtsingh
+npm i add-two-number-demo-package
 
-const sum = require('vprtsingh')
+const sum = require('add-two-number-demo-package')
 
-const add = sum(5,5)                                                                                                                            console.log('add two number => ', add)
+const add = sum(5,5)                                                       
+
+console.log('add two number => ', add)
 
 output
 
