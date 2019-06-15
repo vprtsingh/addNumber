@@ -1,11 +1,16 @@
 {
-  "name": "addnumber",
-  "version": "1.0.0",
-  "description": "",
+  "name": "vprtsingh",
+  "version": "1.8.0",
+  "description": "desc",
+  "keywords": "NodeJs, Javascript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Vijay Pratap Singh <vijaypratap218@gmail.com> (vijaypratap.info)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/vprtsingh/addNumber.git"
+  }
 }
