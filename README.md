@@ -13,13 +13,11 @@ output
   add two number => 10
   
   
-  
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Vijay Pratap Singh</b><br /><sub>Core Developer</sub></td><td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Vijay Pratap Singh</b><br /><sub>Core Developer</sub></td>
+    <td align="center"><a href="https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50?s=100&f=y" width="100px;" alt=""/></a><br /><b>Vijay Pratap Singh</b><br /><sub>Core Developer</sub></td><td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Vijay Pratap Singh</b><br /><sub>Core Developer</sub></td>
     <td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Vijay Pratap Singh</b><br /><sub>Core Developer</sub></td>
     <td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Vijay Pratap Singh</b><br /><sub>Core Developer</sub></td>
     <td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Vijay Pratap Singh</b><br /><sub>Core Developer</sub></td>
@@ -28,5 +26,4 @@ output
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
