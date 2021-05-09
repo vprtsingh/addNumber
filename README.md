@@ -17,26 +17,10 @@ output
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-
-<section>
-  <div>
-    <a href="https://github.com/raj2611">
-      <img src="https://avatars1.githubusercontent.com/u/23263053?v=4" style="border-radius:50%" height="auto" width="100px;" alt=""/>
-    </a>
-    <br /><b>Sumant Raj</b>
-  </div>
-  <br />
-    
-   <div>
-    <a href="https://github.com/raj2611">
-      <img src="https://avatars1.githubusercontent.com/u/23263053?v=4" style="border-radius:50%" height="auto" width="100px;" alt=""/>
-    </a>
-    <br /><b>Sumant Raj</b>
-  <div>
-  <br />
-    
- </section>
+  <a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/><br /><sub><b>Sumant Raj</b></sub></a><br /><a href="https://github.com/GeekyAnts/flutter-starter/commits?author=raj2611" title="Code">💻</a>
+    <a href="https://github.com/madhav23bansal"><img src="https://avatars0.githubusercontent.com/u/52946553?v=4" width="100px;" alt=""/><br /><sub><b>madhav23bansal</b></sub></a><br /><a href="https://github.com/GeekyAnts/flutter-starter/commits?author=madhav23bansal" title="Code">💻</a>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
