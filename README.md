@@ -19,10 +19,10 @@ output
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Sumant Raj</b><br /><sub>Core Developer</sub></td><td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Sumant Raj</b><br /><sub>Core Developer</sub></td>
-    <td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Sumant Raj</b><br /><sub>Core Developer</sub></td>
-    <td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Sumant Raj</b><br /><sub>Core Developer</sub></td>
-    <td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Sumant Raj</b><br /><sub>Core Developer</sub></td>
+    <td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Vijay Pratap Singh</b><br /><sub>Core Developer</sub></td><td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Vijay Pratap Singh</b><br /><sub>Core Developer</sub></td>
+    <td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Vijay Pratap Singh</b><br /><sub>Core Developer</sub></td>
+    <td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Vijay Pratap Singh</b><br /><sub>Core Developer</sub></td>
+    <td align="center"><a href="https://github.com/raj2611"><img src="https://avatars1.githubusercontent.com/u/23263053?v=4" width="100px;" alt=""/></a><br /><b>Vijay Pratap Singh</b><br /><sub>Core Developer</sub></td>
   </tr>
 </table>
 
